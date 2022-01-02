@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Theresa Grannum, also known as @remedycode
 - 👀 I’m interested in AR/VR and Machine Learning
 - 🌱 I’m currently learning full stack web development 
-- 💞️ I’m looking to collaborate on HTML, CSS, and javascript
+- 💞️ I’m looking to collaborate on HTML, CSS, and Javascript
 - 📫 How to reach me Twitter! @TheRemedyCode - Hope to see you there!
 
 <!---
